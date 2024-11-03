@@ -68,7 +68,7 @@ social:
 author_status:
   enable: true
   # 可以是任何图片，建议放表情包或者emoji图片，效果都很好，[表情包速查](https://emotion.xiaokang.me/)
-  statusImg: "https://pic.imgdb.cn/item/67151ec9d29ded1a8c3365ed.png"
+  statusImg: "https://bu.dusays.com/2021/01/15/cfe2ee0d9b34e.png"
   skills:
      - 🤖️ 广西科技大学 嵌入式智控协会
      - 🥰 面向全校专业
