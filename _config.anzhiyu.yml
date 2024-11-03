@@ -26,12 +26,7 @@ nav:
   travelling: false
   clock: false
   menu:
-    - title: 网页
-      item:
-        - name: 博客
-          link: https://blog.anheyu.com/
-          icon: /img/favicon.ico
-    - title: 项目
+    - title: 官网
       item:
         - name: 广西科技大学嵌入式智控协会
           link: https://www.eica.fun/
