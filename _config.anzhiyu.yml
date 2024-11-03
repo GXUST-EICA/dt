@@ -33,9 +33,9 @@ nav:
           icon: /img/favicon.ico
     - title: 项目
       item:
-        - name: 安知鱼图床
-          link: https://image.anheyu.com/
-          icon: https://image.anheyu.com/favicon.ico
+        - name: 广西科技大学嵌入式智控协会
+          link: https://www.eica.fun/
+          icon: https://pic.imgdb.cn/item/6726f48cd29ded1a8c3c1bcd.png
 
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
 # 注意： 仅网站首页变灰，其他页面正常显示
