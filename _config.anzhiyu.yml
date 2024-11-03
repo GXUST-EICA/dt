@@ -22,9 +22,9 @@ menu:
 
 # nav相关配置
 nav:
-  enable: false
+  enable: true
   travelling: false
-  clock: false
+  clock: true
   menu:
     - title: 官网
       item:
@@ -35,7 +35,7 @@ nav:
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
 # 注意： 仅网站首页变灰，其他页面正常显示
 mourn:
-  enable: false
+  enable: true
   days: [4-5, 5-12, 7-7, 9-18, 12-13]
 
 # Code Blocks (代码相关)
@@ -66,7 +66,7 @@ social:
 
 # 作者卡片 状态
 author_status:
-  enable: false
+  enable: true
   # 可以是任何图片，建议放表情包或者emoji图片，效果都很好，[表情包速查](https://emotion.xiaokang.me/)
   statusImg: "https://pic.imgdb.cn/item/67151ec9d29ded1a8c3365ed.png"
   skills:
@@ -129,7 +129,7 @@ favicon: https://pic.imgdb.cn/item/67151ec9d29ded1a8c3365ed.png
 # Avatar (头像)
 avatar:
   img: https://pic.imgdb.cn/item/67151ec9d29ded1a8c3365ed.png
-  effect: true
+  effect: false
 
 # Disable all banner image
 disable_top_img: false
@@ -234,12 +234,9 @@ post_copyright:
 reward:
   enable: false
   QR_code:
-    - img: https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/qrcode-weichat.png
+    - img: 
       link:
-      text: 微信
-    - img: https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/qrcode-alipay.png
-      link:
-      text: 支付宝
+      text: 没有收款码
 
 # Post edit
 # Easily browse and edit blog source code online.
