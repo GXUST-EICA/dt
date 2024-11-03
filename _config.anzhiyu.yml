@@ -124,12 +124,12 @@ katex:
 # --------------------------------------
 
 # Favicon（网站图标）
-favicon: /favicon.ico
+favicon: https://pic.imgdb.cn/item/67151ec9d29ded1a8c3365ed.png
 
 # Avatar (头像)
 avatar:
   img: https://pic.imgdb.cn/item/67151ec9d29ded1a8c3365ed.png
-  effect: false
+  effect: true
 
 # Disable all banner image
 disable_top_img: false
