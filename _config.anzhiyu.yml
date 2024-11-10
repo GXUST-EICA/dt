@@ -161,7 +161,7 @@ error_img:
 error_404:
   enable: true
   subtitle: "请尝试站内搜索寻找文章"
-  background: https://pic.imgdb.cn/item/67307bdbd29ded1a8c5f27d4.gif
+  background: /img/friend_404.jpg
 
 post_meta:
   page: # Home Page
@@ -776,7 +776,7 @@ preloader:
   source: 3
   # pace theme (see https://codebyzach.github.io/pace/)
   pace_css_url:
-  avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg # 自定加载动画义头像
+  avatar: https://pic.imgdb.cn/item/67307d3bd29ded1a8c602b39.png # 自定加载动画义头像
 
 # aside (侧边栏)
 # --------------------------------------
