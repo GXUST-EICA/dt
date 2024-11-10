@@ -161,7 +161,7 @@ error_img:
 error_404:
   enable: true
   subtitle: "请尝试站内搜索寻找文章"
-  background: /img/friend_404.jpg
+  background: https://pic.imgdb.cn/item/67307e1ad29ded1a8c60e414.gif
 
 post_meta:
   page: # Home Page
