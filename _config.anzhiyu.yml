@@ -187,7 +187,7 @@ mainTone:
   cover_change: true # 整篇文章跟随cover修改主色调
 
 # wordcount (字数统计)
-# see https://blog.anheyu.com/posts/c27d.html#字数统计
+see https://blog.anheyu.com/posts/c27d.html#字数统计
 wordcount:
   enable: false
   post_wordcount: true
