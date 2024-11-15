@@ -1130,9 +1130,9 @@ visitorMail:
 # ptool 文章底部工具
 ptool:
   enable: false
-  share_mobile: true
-  share_weibo: true
-  share_copyurl: true
+  share_mobile: false
+  share_weibo: false
+  share_copyurl: false
   categories: true # 是否显示分类
   mode: # 运营模式与责任，不配置不显示
 
@@ -1200,7 +1200,7 @@ pageThumbnailSuffix: ""
 
 # 隐私协议弹窗
 agreementPopup:
-  enable: false
+  enable: true
   url: /privacy
 
 # 右键菜单
@@ -1244,7 +1244,7 @@ CDN:
   third_party_provider: cbd
 
   # Add version number to CDN, true or false
-  version: true
+  version: false
 
   # Custom format
   # For example: https://cdn.staticfile.org/${cdnjs_name}/${version}/${min_cdnjs_file}
