@@ -1037,20 +1037,20 @@ home_top:
   timemode: date #date/updated
   title: 生活明朗
   subTitle: 万物可爱。
-  siteText: anheyu.com
+  siteText: eica.fun
   category:
     - name: 培训
-      path: /categories/培训/
+      path: /培训/
       shadow: var(--anzhiyu-shadow-blue)
       class: blue
       icon: anzhiyu-icon-dove
     - name: 协会
-      path: /categories/协会/
+      path: /协会/
       shadow: var(--anzhiyu-shadow-red)
       class: red
       icon: anzhiyu-icon-fire
     - name: 动态
-      path: /categories/动态/
+      path: /动态/
       shadow: var(--anzhiyu-shadow-green)
       class: green
       icon: anzhiyu-icon-book
@@ -1087,7 +1087,7 @@ console:
 
 # 51a统计配置
 LA:
-  enable: false
+  enable: true
   ck:
   LingQueMonitorID:
 
@@ -1095,7 +1095,7 @@ LA:
 diytitle:
   enable: true
   leaveTitle: 嵌入式智控协会
-  backTitle: ♪(^∇^*)欢迎回来！
+  backTitle: 欢迎回来！
 
 # 留言弹幕配置
 comment_barrage_config:
