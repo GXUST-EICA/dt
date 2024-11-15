@@ -1129,7 +1129,7 @@ visitorMail:
 
 # ptool 文章底部工具
 ptool:
-  enable: true
+  enable: false
   share_mobile: true
   share_weibo: true
   share_copyurl: true
