@@ -1040,17 +1040,17 @@ home_top:
   siteText: eica.fun
   category:
     - name: 培训
-      path: /categories/动态/
+      path: https://www.eica.fun/center/
       shadow: var(--anzhiyu-shadow-blue)
       class: blue
       icon: anzhiyu-icon-dove
-    - name: 协会
-      path: /categories/协会/
+    - name: 比赛项目列表
+      path: https://www.eica.fun/center/
       shadow: var(--anzhiyu-shadow-red)
       class: red
       icon: anzhiyu-icon-fire
-    - name: 动态
-      path: /categories/动态/
+    - name: 实验室导航
+      path: https://www.eica.fun/address/
       shadow: var(--anzhiyu-shadow-green)
       class: green
       icon: anzhiyu-icon-book
