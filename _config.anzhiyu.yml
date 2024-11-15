@@ -1045,7 +1045,7 @@ home_top:
       class: blue
       icon: anzhiyu-icon-dove
     - name: 比赛项目列表
-      path: https://www.eica.fun/center/
+      path: https://www.eica.fun/address/
       shadow: var(--anzhiyu-shadow-red)
       class: red
       icon: anzhiyu-icon-fire
