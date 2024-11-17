@@ -1039,13 +1039,13 @@ home_top:
   subTitle: 万物可爱。
   siteText: eica.fun
   category:
-    - name: 培训
+    - name: 培训计划
       path: https://www.eica.fun/center/
       shadow: var(--anzhiyu-shadow-blue)
       class: blue
       icon: anzhiyu-icon-dove
     - name: 比赛项目列表
-      path: https://www.eica.fun/address/
+      path: https://www.eica.fun/contest/
       shadow: var(--anzhiyu-shadow-red)
       class: red
       icon: anzhiyu-icon-fire
