@@ -1,5 +1,5 @@
 ---
-title:🎉嵌入式领域也有AI神助手啦！DeepSeek-EICA满血版正式开放体验✨
+title:嵌入式领域也有AI神助手啦！DeepSeek-EICA满血版正式开放体验
 date: 2025-02-21 12:00:00
 ---
 #🎉嵌入式领域也有AI神助手啦！DeepSeek-EICA满血版正式开放体验✨
