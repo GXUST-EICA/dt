@@ -1,5 +1,5 @@
 ---
-title:"🎉嵌入式领域也有AI神助手啦！DeepSeek-EICA满血版正式开放体验✨"
+title: "🎉嵌入式领域也有AI神助手啦！DeepSeek-EICA满血版正式开放体验✨"
 date: 2025-02-21 12:00:00
 ---
 #🎉嵌入式领域也有AI神助手啦！DeepSeek-EICA满血版正式开放体验✨
@@ -34,8 +34,7 @@ date: 2025-02-21 12:00:00
 ### 🚀如何获取
 ![💡使用场景](https://pic1.imgdb.cn/item/67b8382cd0e0a243d40152cd.png)
 点击协会官网「AI实验室」入口即刻开启你的智能开发新时代！  
-
-这里还能跳转[👉 点击立即体验](https://chat.jnjnjnn.cn)
+[➡️ 立即体验DeepSeek-EICA](https://chat.jnjnjnn.cn)
 ---
 
 #AI助手 #智能控制 #黑科技 #工程师日常 #学生福利
