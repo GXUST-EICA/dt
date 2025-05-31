@@ -62,8 +62,9 @@ date: 2025-05-31 12:00:00
 
 ## 📎 附录
 
-<div align="center">
-  <img src="https://www.eica.fun/assets/img/kfb.png" alt="开发板发票" style="max-width: 80%; border-radius: 12px; box-shadow: 0 2px 8px #ccc;" />
-  <br/>
-  <span style="color: #888; font-size: 14px;">▲ 协会活动精彩瞬间</span>
+<div align="center" style="margin-top: 32px; margin-bottom: 32px;">
+  <figure style="display: inline-block; background: #f8f9fa; border-radius: 16px; box-shadow: 0 4px 24px #bbb6  ; padding: 18px 24px; border: 1.5px solid #e0e0e0;">
+    <img src="https://www.eica.fun/assets/img/kfb.png" alt="开发板发票" style="max-width: 420px; border-radius: 12px; box-shadow: 0 2px 12px #ccc; border: 1.5px solid #e0e0e0; margin-bottom: 10px;" />
+    <figcaption style="color: #666; font-size: 15px; margin-top: 8px; letter-spacing: 1px;">🧾 <b>开发板采购发票（2025年）</b></figcaption>
+  </figure>
 </div> 
