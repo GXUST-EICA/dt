@@ -8,7 +8,7 @@ date: 2025-05-31 12:00:00
   <img src="https://img.shields.io/badge/协会财报-2024--2025-blueviolet?style=for-the-badge&logo=bookstack" alt="协会财报徽标" />
 </p>
 
-<div align="center">
+<div align="center" style="font-size: 1.25em;">
 
 | 年度         | 收入（元）   | 支出（元）   | 结余（元）   |
 | ------------ | ------------ | ------------ | ------------ |
@@ -26,7 +26,7 @@ date: 2025-05-31 12:00:00
 
 <div align="center" style="margin-top: 12px; margin-bottom: 32px;">
   <figure style="display: inline-block; background: #f8f9fa; border-radius: 16px; box-shadow: 0 4px 24px #bbb6; padding: 18px 24px; border: 1.5px solid #e0e0e0;">
-    <img src="https://www.eica.fun/assets/img/2425money.png" alt="2024-2025年费用占比" style="max-width:100%;" />
+    <img src="https://www.eica.fun/DTimages/2425money.png" alt="2024-2025年费用占比" style="max-width:100%;" />
     <p style="text-align:center; color:#666;">📊 <b>2024-2025年费用占比</b></p>
   </figure>
 </div> 
@@ -87,7 +87,7 @@ date: 2025-05-31 12:00:00
 
 <div align="center" style="margin-top: 32px; margin-bottom: 32px;">
   <figure style="display: inline-block; background: #f8f9fa; border-radius: 16px; box-shadow: 0 4px 24px #bbb6  ; padding: 18px 24px; border: 1.5px solid #e0e0e0;">
-    <img src="https://www.eica.fun/assets/img/kfb.png" alt="开发板发票" style="max-width:100%;" />
+    <img src="https://www.eica.fun/DTimages/kfb.png" alt="开发板发票" style="max-width:100%;" />
     <p style="text-align:center; color:#666;">🧾 <b>开发板采购发票（2025年）</b></p>
   </figure>
 </div>
