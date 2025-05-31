@@ -4,6 +4,22 @@ date: 2025-05-31 12:00:00
 ---
 
 <p align="center">
+  <img src="https://img.shields.io/badge/总收入-34002.05元-blue?style=for-the-badge&logo=payoneer" />
+  <img src="https://img.shields.io/badge/总支出-33256.07元-red?style=for-the-badge&logo=buymeacoffee" />
+  <img src="https://img.shields.io/badge/结余-742.98元-brightgreen?style=for-the-badge&logo=vercel" />
+</p>
+
+<div align="center">
+
+| 年度         | 收入（元）   | 支出（元）   | 结余（元）   |
+| ------------ | ------------ | ------------ | ------------ |
+| 2024下半年   | 9097.16      | 7622.27      | 1474.89      |
+| 2025上半年   | 26400.14     | 25657.16     | 742.98       |
+| **合计**     | **34002.05** | **33256.07** | **742.98**   |
+
+</div>
+
+<p align="center">
   <img src="https://img.shields.io/badge/协会财报-2024--2025-blueviolet?style=for-the-badge&logo=bookstack" alt="协会财报徽标" />
 </p>
 
