@@ -56,4 +56,14 @@ date: 2025-05-31 12:00:00
 
 <p align="center">
   <img src="https://img.shields.io/badge/%E5%85%AC%E5%BC%80%E9%80%8F%E6%98%8E-%E5%8A%A9%E5%8A%9B%E5%8F%91%E5%B1%95-brightgreen?style=for-the-badge&logo=vercel" />
-</p> 
+</p>
+
+---
+
+## 📎 附录
+
+<div align="center">
+  <img src="https://www.eica.fun/assets/img/kfb.png" alt="协会活动照片" style="max-width: 80%; border-radius: 12px; box-shadow: 0 2px 8px #ccc;" />
+  <br/>
+  <span style="color: #888; font-size: 14px;">▲ 协会活动精彩瞬间</span>
+</div> 
