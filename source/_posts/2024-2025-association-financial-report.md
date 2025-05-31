@@ -8,9 +8,9 @@ date: 2025-05-31 12:00:00
 </p>
 
 
-# 🎉 2024-2025 协会财报（本篇文章使用PC端观看更佳）
+# 🎉 2024-2025 协会财报
 ---
-
+> <span style="color:#2196F3;font-weight:bold">本篇文章使用PC端观看更佳</span>
 <div align="center" style="margin-top: 12px; margin-bottom: 32px;">
   <figure style="display: inline-block; background: #f8f9fa; border-radius: 16px; box-shadow: 0 4px 24px #bbb6; padding: 18px 24px; border: 1.5px solid #e0e0e0;">
     <img src="https://www.eica.fun/assets/img/2425money.png" alt="2024-2025年费用占比" style="max-width:100%;" />
@@ -22,7 +22,7 @@ date: 2025-05-31 12:00:00
 
 ## 📅 2024年下半年
 
-> <span style="color:#4CAF50;font-weight:bold">收入</span> & 支出明细
+***协会承诺：***
 
 | 项目               | 金额（元） | 说明                 |
 | ------------------ | ---------- | -------------------- |
