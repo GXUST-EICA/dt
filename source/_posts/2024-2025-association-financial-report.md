@@ -95,7 +95,7 @@ date: 2025-05-31 12:00:00
 
 <div align="center" style="margin-top: 32px; margin-bottom: 32px;">
   <figure style="display: inline-block; background: #f8f9fa; border-radius: 16px; box-shadow: 0 4px 24px #bbb6  ; padding: 18px 24px; border: 1.5px solid #e0e0e0;">
-    <img src="https://www.eica.fun/DTimages/2425fapiao.jpg" alt="开发板发票" style="max-width:100%;" />
+    <img src="https://www.eica.fun/DTimages/2425fapiao.jpg" alt="各个发票" style="max-width:100%;" />
     <p style="text-align:center; color:#666;">🧾 <b>=各个发票</b></p>
   </figure>
 </div>
