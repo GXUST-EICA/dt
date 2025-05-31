@@ -7,7 +7,8 @@ date: 2025-05-31 12:00:00
   <img src="https://img.shields.io/badge/协会财报-2024--2025-blueviolet?style=for-the-badge&logo=bookstack" alt="协会财报徽标" />
 </p>
 
-# 🎉 2024-2025 协会财报
+
+# 🎉 2024-2025 协会财报（本篇文章使用PC端观看更佳）
 ---
 
 <div align="center" style="margin-top: 12px; margin-bottom: 32px;">
