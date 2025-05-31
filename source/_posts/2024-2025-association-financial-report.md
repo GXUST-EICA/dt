@@ -63,7 +63,7 @@ date: 2025-05-31 12:00:00
 ## 📎 附录
 
 <div align="center">
-  <img src="https://www.eica.fun/assets/img/kfb.png" alt="协会活动照片" style="max-width: 80%; border-radius: 12px; box-shadow: 0 2px 8px #ccc;" />
+  <img src="https://www.eica.fun/assets/img/kfb.png" alt="开发板发票" style="max-width: 80%; border-radius: 12px; box-shadow: 0 2px 8px #ccc;" />
   <br/>
   <span style="color: #888; font-size: 14px;">▲ 协会活动精彩瞬间</span>
 </div> 
