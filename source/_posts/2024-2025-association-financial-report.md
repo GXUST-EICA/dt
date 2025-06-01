@@ -84,17 +84,17 @@ date: 2025-05-31 12:00:00
 ---
 
 ## 📎 附录
-
+（网络很差，有时候加载时间很久）
 <div align="center" style="margin-top: 32px; margin-bottom: 32px;">
   <figure style="display: inline-block; background: #f8f9fa; border-radius: 16px; box-shadow: 0 4px 24px #bbb6  ; padding: 18px 24px; border: 1.5px solid #e0e0e0;">
-    <img src="https://pic1.imgdb.cn/item/683b0e3758cb8da5c81ec907.png" alt="2024年下半年的经费支出金额统计" style="max-width:100%;" />
+    <img src="https://www.eica.fun/DTimages/24.png" alt="2024年下半年的经费支出金额统计" style="max-width:100%;" />
     <p style="text-align:center; color:#666;">🧾 <b>2024年下半年的经费支出金额统计（加载时间很久）</b></p>
   </figure>
 </div>
 
 <div align="center" style="margin-top: 32px; margin-bottom: 32px;">
   <figure style="display: inline-block; background: #f8f9fa; border-radius: 16px; box-shadow: 0 4px 24px #bbb6  ; padding: 18px 24px; border: 1.5px solid #e0e0e0;">
-    <img src="https://pic1.imgdb.cn/item/683b0e3758cb8da5c81ec906.png" alt="2025年上半年的经费支出金额统计" style="max-width:100%;" />
+    <img src="https://www.eica.fun/DTimages/25.png" alt="2025年上半年的经费支出金额统计" style="max-width:100%;" />
     <p style="text-align:center; color:#666;">🧾 <b>2025年上半年的经费支出金额统计（加载时间很久）</b></p>
   </figure>
 </div>
@@ -109,31 +109,45 @@ date: 2025-05-31 12:00:00
 
 <div align="center" style="margin-top: 32px; margin-bottom: 32px;">
   <figure style="display: inline-block; background: #f8f9fa; border-radius: 16px; box-shadow: 0 4px 24px #bbb6  ; padding: 18px 24px; border: 1.5px solid #e0e0e0;">
-    <img src="https://pic1.imgdb.cn/item/683b0d3d58cb8da5c81ec82d.png" alt="各个发票" style="max-width:100%;" />
+    <img src="https://www.eica.fun/DTimages/2425fapiao1.jpg" alt="各个发票" style="max-width:100%;" />
     <p style="text-align:center; color:#666;">🧾 <b>各个发票（加载时间很久）</b></p>
   </figure>
 </div>
 <div align="center" style="margin-top: 32px; margin-bottom: 32px;">
   <figure style="display: inline-block; background: #f8f9fa; border-radius: 16px; box-shadow: 0 4px 24px #bbb6  ; padding: 18px 24px; border: 1.5px solid #e0e0e0;">
-    <img src="https://pic1.imgdb.cn/item/683b0d3d58cb8da5c81ec82c.png" alt="各个发票" style="max-width:100%;" />
+    <img src="https://www.eica.fun/DTimages/2425fapiao2.jpg" alt="各个发票" style="max-width:100%;" />
     <p style="text-align:center; color:#666;">🧾 <b>各个发票（加载时间很久）</b></p>
   </figure>
 </div>
 <div align="center" style="margin-top: 32px; margin-bottom: 32px;">
   <figure style="display: inline-block; background: #f8f9fa; border-radius: 16px; box-shadow: 0 4px 24px #bbb6  ; padding: 18px 24px; border: 1.5px solid #e0e0e0;">
-    <img src="https://pic1.imgdb.cn/item/683b0d3d58cb8da5c81ec82e.png" alt="各个发票" style="max-width:100%;" />
+    <img src="https://www.eica.fun/DTimages/2425fapiao3.jpg" alt="各个发票" style="max-width:100%;" />
     <p style="text-align:center; color:#666;">🧾 <b>各个发票（加载时间很久）</b></p>
   </figure>
 </div>
 <div align="center" style="margin-top: 32px; margin-bottom: 32px;">
   <figure style="display: inline-block; background: #f8f9fa; border-radius: 16px; box-shadow: 0 4px 24px #bbb6  ; padding: 18px 24px; border: 1.5px solid #e0e0e0;">
-    <img src="https://pic1.imgdb.cn/item/683b0d3d58cb8da5c81ec830.png" alt="各个发票" style="max-width:100%;" />
+    <img src="https://www.eica.fun/DTimages/2425fapiao4.jpg" alt="各个发票" style="max-width:100%;" />
     <p style="text-align:center; color:#666;">🧾 <b>各个发票（加载时间很久）</b></p>
   </figure>
 </div>
 <div align="center" style="margin-top: 32px; margin-bottom: 32px;">
   <figure style="display: inline-block; background: #f8f9fa; border-radius: 16px; box-shadow: 0 4px 24px #bbb6  ; padding: 18px 24px; border: 1.5px solid #e0e0e0;">
-    <img src="https://pic1.imgdb.cn/item/683b0d3d58cb8da5c81ec82f.png" alt="各个发票" style="max-width:100%;" />
+    <img src="https://www.eica.fun/DTimages/2425fapiao5.jpg" alt="各个发票" style="max-width:100%;" />
     <p style="text-align:center; color:#666;">🧾 <b>各个发票（加载时间很久）</b></p>
   </figure>
 </div>
+
+## 下载区
+
+以下为本页所有图片的直链，点击可直接下载：
+
+- [2024-2025年费用占比](https://www.eica.fun/DTimages/2425money.png)
+- [2024年下半年的经费支出金额统计](https://www.eica.fun/DTimages/24.png)
+- [2025年上半年的经费支出金额统计](https://www.eica.fun/DTimages/25.png)
+- [开发板采购发票（2025年）](https://www.eica.fun/DTimages/kfb.png)
+- [各个发票1](https://www.eica.fun/DTimages/2425fapiao1.jpg)
+- [各个发票2](https://www.eica.fun/DTimages/2425fapiao2.jpg)
+- [各个发票3](https://www.eica.fun/DTimages/2425fapiao3.jpg)
+- [各个发票4](https://www.eica.fun/DTimages/2425fapiao4.jpg)
+- [各个发票5](https://www.eica.fun/DTimages/2425fapiao5.jpg)
