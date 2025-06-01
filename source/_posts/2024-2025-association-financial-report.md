@@ -88,14 +88,14 @@ date: 2025-05-31 12:00:00
 <div align="center" style="margin-top: 32px; margin-bottom: 32px;">
   <figure style="display: inline-block; background: #f8f9fa; border-radius: 16px; box-shadow: 0 4px 24px #bbb6  ; padding: 18px 24px; border: 1.5px solid #e0e0e0;">
     <img src="https://pic1.imgdb.cn/item/683b0e3758cb8da5c81ec907.png" alt="2024年下半年的经费支出金额统计" style="max-width:100%;" />
-    <p style="text-align:center; color:#666;">🧾 <b>2024年下半年的经费支出金额统计</b></p>
+    <p style="text-align:center; color:#666;">🧾 <b>2024年下半年的经费支出金额统计（加载时间很久）</b></p>
   </figure>
 </div>
 
 <div align="center" style="margin-top: 32px; margin-bottom: 32px;">
   <figure style="display: inline-block; background: #f8f9fa; border-radius: 16px; box-shadow: 0 4px 24px #bbb6  ; padding: 18px 24px; border: 1.5px solid #e0e0e0;">
     <img src="https://pic1.imgdb.cn/item/683b0e3758cb8da5c81ec906.png" alt="2025年上半年的经费支出金额统计" style="max-width:100%;" />
-    <p style="text-align:center; color:#666;">🧾 <b>2025年上半年的经费支出金额统计</b></p>
+    <p style="text-align:center; color:#666;">🧾 <b>2025年上半年的经费支出金额统计（加载时间很久）</b></p>
   </figure>
 </div>
 
